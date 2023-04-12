@@ -20,7 +20,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='lanms_neo',
-    version='1.0.2',
+    version='1.0.3',
     author="gen-ko",
     author_email="yuanl5@alumni.cmu.edu",
     description="Standalone Locality-Aware NMS module.",
